@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>quot</h1>
+  <h1>qote</h1>
 
   <p>
-    quot is a simple npm module that let's you use curated quotes in your apps. 
+    qote is a simple npm module that let's you use curated quotes in your apps. 
   </p>
 
 </div>
@@ -16,7 +16,7 @@
 ## Usage
 
 ```javascript
-  const quot = require('quot');
+  const qote = require('qote');
 
   quot.get();
 
